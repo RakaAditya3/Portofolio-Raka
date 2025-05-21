@@ -8,6 +8,7 @@ import ExperienceSection from './sections/ExperienceSection'
 import TechStack from './sections/TechStack'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
+import { Analytics } from "@vercel/analytics/react"
 
 
 const App = () => {
@@ -22,6 +23,7 @@ const App = () => {
   <TechStack />
   <Contact />
   <Footer />
+  <Analytics />
   </>
   )
 }
