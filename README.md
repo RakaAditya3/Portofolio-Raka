@@ -1,12 +1,21 @@
-# React + Vite
+# Raka Aditya - Portofolio Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di repositori portofolio web pribadi saya!
 
-Currently, two official plugins are available:
+Portofolio ini dirancang untuk menampilkan berbagai proyek dan keterampilan yang telah saya kembangkan di bidang pengembangan web. Di sini Anda akan menemukan contoh-contoh pekerjaan saya, mulai dari aplikasi frontend hingga integrasi backend sederhana, yang mencerminkan dedikasi saya terhadap kode bersih, desain responsif, dan pengalaman pengguna yang intuitif.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Lihat Portofolio Saya
 
-## Expanding the ESLint configuration
+Anda dapat melihat portofolio ini secara langsung yang sudah di-deploy di sini:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+portofolio-raka-six.vercel.app
+
+## Teknologi yang Digunakan
+
+Portofolio ini dibangun dengan teknologi modern untuk memastikan kinerja dan skalabilitas yang baik:
+
+* **Frontend Framework:** React.js
+* **Build Tool:** Vite
+* **Bahasa Pemrograman:** JavaScript
+* **Styling:** Tailwindcss
+* **Hosting:** Vercel
